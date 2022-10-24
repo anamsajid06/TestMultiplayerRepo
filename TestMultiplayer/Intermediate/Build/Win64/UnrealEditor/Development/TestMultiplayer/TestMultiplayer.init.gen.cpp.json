@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\testmultiplayer\\testmultiplayer.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\testmultiplayereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\unrealeditor\\development\\testmultiplayer\\definitions.testmultiplayer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

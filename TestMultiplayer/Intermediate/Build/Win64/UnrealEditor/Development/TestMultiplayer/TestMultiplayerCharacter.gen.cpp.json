@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\testmultiplayer\\testmultiplayercharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\testmultiplayereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\unrealeditor\\development\\testmultiplayer\\definitions.testmultiplayer.h",
+            "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\source\\testmultiplayer\\testmultiplayercharacter.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\testmultiplayer\\testmultiplayercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

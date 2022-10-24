@@ -1,0 +1,35 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\source\\testmultiplayer\\multiplayerprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\testmultiplayereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\unrealeditor\\development\\testmultiplayer\\definitions.testmultiplayer.h",
+            "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\source\\testmultiplayer\\multiplayerprojectile.h",
+            "d:\\dev\\unrealengineprojects\\testprojects\\testmultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\testmultiplayer\\multiplayerprojectile.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\particles\\particlesystem.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\particles\\particleperfstats.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\particlesystem.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "d:\\programs\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

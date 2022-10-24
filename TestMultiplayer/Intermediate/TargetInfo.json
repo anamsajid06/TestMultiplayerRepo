@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestMultiplayer",
+			"Path": "D:\\Dev\\UnrealEngineProjects\\TestProjects\\TestMultiplayer\\Source\\TestMultiplayer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestMultiplayerEditor",
+			"Path": "D:\\Dev\\UnrealEngineProjects\\TestProjects\\TestMultiplayer\\Source\\TestMultiplayerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

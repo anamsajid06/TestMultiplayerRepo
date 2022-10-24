@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Dev\\UnrealEngineProjects\\TestProjects\\TestMultiplayer\\Source\\TestMultiplayer\\TestMultiplayer.Build.cs",
+		"D:\\Dev\\UnrealEngineProjects\\TestProjects\\TestMultiplayer\\Source\\TestMultiplayer.Target.cs",
+		"D:\\Dev\\UnrealEngineProjects\\TestProjects\\TestMultiplayer\\Source\\TestMultiplayerEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
